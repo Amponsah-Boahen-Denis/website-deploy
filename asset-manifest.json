@@ -1,32 +1,27 @@
 {
   "files": {
-    "main.css": "/website-deploy/static/css/main.86c953ff.chunk.css",
-    "main.js": "/website-deploy/static/js/main.f53b2f37.chunk.js",
-    "main.js.map": "/website-deploy/static/js/main.f53b2f37.chunk.js.map",
+    "main.css": "/website-deploy/static/css/main.8815545b.chunk.css",
+    "main.js": "/website-deploy/static/js/main.0876ec50.chunk.js",
+    "main.js.map": "/website-deploy/static/js/main.0876ec50.chunk.js.map",
     "runtime-main.js": "/website-deploy/static/js/runtime-main.3a45702a.js",
     "runtime-main.js.map": "/website-deploy/static/js/runtime-main.3a45702a.js.map",
     "static/js/2.50a9a208.chunk.js": "/website-deploy/static/js/2.50a9a208.chunk.js",
     "static/js/2.50a9a208.chunk.js.map": "/website-deploy/static/js/2.50a9a208.chunk.js.map",
     "index.html": "/website-deploy/index.html",
-    "static/css/main.86c953ff.chunk.css.map": "/website-deploy/static/css/main.86c953ff.chunk.css.map",
+    "static/css/main.8815545b.chunk.css.map": "/website-deploy/static/css/main.8815545b.chunk.css.map",
     "static/js/2.50a9a208.chunk.js.LICENSE.txt": "/website-deploy/static/js/2.50a9a208.chunk.js.LICENSE.txt",
     "static/media/arrow.png": "/website-deploy/static/media/arrow.2fd9ba55.png",
     "static/media/arrowup.png": "/website-deploy/static/media/arrowup.cb247b6d.png",
     "static/media/back.d21b9838.jpg": "/website-deploy/static/media/back.d21b9838.jpg",
     "static/media/books.png": "/website-deploy/static/media/books.784bcd1a.png",
     "static/media/cars.png": "/website-deploy/static/media/cars.15d30135.png",
-    "static/media/contact.png": "/website-deploy/static/media/contact.e35bf4dd.png",
-    "static/media/email.png": "/website-deploy/static/media/email.dfc6d0ba.png",
-    "static/media/github.png": "/website-deploy/static/media/github.62d3f93b.png",
     "static/media/manager.jpg": "/website-deploy/static/media/manager.1acbf131.jpg",
-    "static/media/start-up.png": "/website-deploy/static/media/start-up.458252a2.png",
-    "static/media/about.scss": "/website-deploy/static/media/ttt.71918c7f.jpg",
-    "static/media/watsup.png": "/website-deploy/static/media/watsup.de3c5fc5.png"
+    "static/media/start-up.png": "/website-deploy/static/media/start-up.458252a2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3a45702a.js",
     "static/js/2.50a9a208.chunk.js",
-    "static/css/main.86c953ff.chunk.css",
-    "static/js/main.f53b2f37.chunk.js"
+    "static/css/main.8815545b.chunk.css",
+    "static/js/main.0876ec50.chunk.js"
   ]
 }
